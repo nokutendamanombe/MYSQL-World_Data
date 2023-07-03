@@ -1,4 +1,5 @@
 # MYSQL-World_Data
+The script is in the Master Branch :) 
 This project explores the MySQL sample World database. Checking for Population Density, Languages Spoken in certain regions etc.
 
 I dabbled with data retrieval answering the below questions
