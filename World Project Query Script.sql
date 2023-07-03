@@ -33,6 +33,16 @@ where country.Name like'%Argentina%'
 */
 
 
+/* What country has the highest life expectancy? */ 
+
+/*
+Select country.name , country.lifeexpectancy 
+From country
+order by country.LifeExpectancy desc
+*/
+
+
+
 /* What is The number of cities in the USA ?*/
 
 /*
@@ -42,15 +52,18 @@ where city.CountryCode like '%USA%'
 
 
 
-/* What is the capital of Spain (ESP)
+/* What is the capital of Spain (ESP)*/
+
+/*    
 Select city.Name, country.name from city 
 join country on city.ID = country.capital
 where country.name like '%Spain%'
 */
     
     
- /*  Which country has the highest population?
- 
+ /*  Which country has the highest population?*/
+
+ /*
   SELECT 
     country.name, country.population
 FROM
@@ -59,8 +72,9 @@ ORDER BY country.Population DESC
 */
 
 
-/*Which country has the least number of people?
+/*Which country has the least number of people?*/
 
+/*
  SELECT 
     country.name, country.population
 FROM
