@@ -17,7 +17,8 @@ The Questions I answered are :
 8.Insert a new city
 9.Update the population of a specific city
 10.Delete a record from the "country" table based on a specific condition
-   
+
+   Update 
 1. Which is the most densely populated country in the world?
 2. list all the languages spoken in the 'Southeast Asia' region
 3. What the population and average life expectancy for people in Argentina (ARG) ?
