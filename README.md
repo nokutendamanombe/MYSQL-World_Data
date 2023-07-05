@@ -16,14 +16,12 @@ The Questions I answered are :
 7.Find the average GNP (Gross National Product) for each region
 8.Insert a new city
 9.Update the population of a specific city
-10.Delete a record from the "country" table based on a specific condition
-
-   Update 
-1. Which is the most densely populated country in the world?
-2. list all the languages spoken in the 'Southeast Asia' region
-3. What the population and average life expectancy for people in Argentina (ARG) ?
-4. What is the number of cities in the USA ?
-5. What is the capital of Spain (ESP) ? 
-6. Which country has the highest population?
-7. Which country has the least number of people?
-8. what country has the highest life expectancy?
+10.Delete a record from the "country" table based on a specific condition 
+11. Which is the most densely populated country in the world?
+12. list all the languages spoken in the 'Southeast Asia' region
+13. What the population and average life expectancy for people in Argentina (ARG) ?
+14. What is the number of cities in the USA ?
+15. What is the capital of Spain (ESP) ? 
+16. Which country has the highest population?
+17. Which country has the least number of people?
+18. what country has the highest life expectancy?
